@@ -18,7 +18,7 @@ author: SnakeSon
 
 ## 操作步骤：
 
-```js
+```
 
 spencer@spencer-it1 MINGW64 /f/myself/643435675.github.io (master)
 $ gem install jekyll
@@ -78,7 +78,7 @@ cd 643435675.github.io  文件夹下
 
 因为首页与详情页显示某篇文章的内容是不一样的，在首页中进行文章的裁剪显示：
 需要进行加入四个空行：
-```md
+```
 ## 目的：
 
 写这篇文章的目的主要是为了测试在本地进行md文件的编写是否能使用hexo进行html生成，然后上传到github上，通过访问https://day21.top 这个网站查看能否看到最新的文章
